@@ -1,2 +1,3 @@
-# OpenAI-Cookbook-Linux-Windows-GPT-5
-OpenAI Cybersecurity Cookbook GPT-5
+# Cybersecurity Cookbook (GPT-5 Edition)
+
+See guide in main instructions.
